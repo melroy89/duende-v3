@@ -1,7 +1,6 @@
 # MyBB Duende V3 theme (fully responsive)
 
-Duende v3 theme fully responsive, free and open-source (GPL) for [MyBB](https://mybb.com/).
-
+Duende v3 theme fully responsive, free and open-source (GPL) for [MyBB](https://mybb.com/). Tested and works on MyBB v1.8.x.
 
 ## Demo site
 
