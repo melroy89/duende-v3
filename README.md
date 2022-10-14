@@ -2,7 +2,7 @@
 
 Duende v3 theme fully responsive, free and open-source (GPL) for [MyBB](https://mybb.com/). Tested and works on MyBB v1.8.x.
 
-There are two flavours:
+Duende v3 comes in two flavours:
 
  - Duende v3
  - Duende v3 Local
