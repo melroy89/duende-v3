@@ -1,6 +1,15 @@
-# MyBB Duende V3 theme (fully responsive)
+# MyBB Duende v3 theme (fully responsive)
 
 Duende v3 theme fully responsive, free and open-source (GPL) for [MyBB](https://mybb.com/). Tested and works on MyBB v1.8.x.
+
+There are two flavours:
+
+ - Duende v3
+ - Duende v3 Local
+ 
+ Duende V3 **Local** is the same as Duende V3, where the only difference is that with the local version all files are hosted locally. So *without* the need of a CDN (Cloudflare).
+ 
+ In short, the Duende v3 **Local** is an ideal solution if you don't want to depend on external resources and/or don't have Internet access.
 
 ## Demo site
 
@@ -21,4 +30,5 @@ Visit: https://mybbdemo.melroy.org
 
 ## Download
 
-[Just download the zip file](duende_v3.zip).
+- [Duende v3](duende_v3.zip)
+- [Duende v3 Local](duende_v3_local.zip)
